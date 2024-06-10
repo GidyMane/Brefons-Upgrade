@@ -1,0 +1,80 @@
+{
+    "id": "3",
+    "title": "Component 3: Strengthening Agropastoral Communities’ Capacity to Adapt to Climate Change",
+    "members": [
+      {
+        "id": "3.1",
+        "title": "Outcome Statement 3: Improved Populations’ Capacity to Manage and Adapt to Climate Change Risks",
+        "indicators": [
+          {
+            "id": "3.1",
+            "title": "Pastoralists and farmers in the program target area who use climate services (e.g., seasonal climate forecasting)",
+            "unit": "Number",
+            "baseline": "Baseline survey in Feb-March-2024",
+            "midtarget": "",
+            "endtarget": "",
+            "frequency": ["Monthly", "Quartely", "Annually"],
+            "mov": ["Quarterly", "Midterm", "Annual"],
+            "agency": "NPCU County Team MOALF & KNBS Consultants"
+          }
+        ]
+      },
+      {
+        "id": "3.2",
+        "title": "Outcome Statement 3.1: Enhanced climate services infrastructure",
+        "indicators": [
+          {
+            "id": "3.1.1",
+            "title": "Output indicator 3.1.1: Climate products and services for agriculture and livestock developed",
+            "unit": "Number",
+            "baseline": "Baseline survey in Feb-March-2024",
+            "midtarget": "5",
+            "endtarget": "10",
+            "frequency": ["Monthly", "Quartely", "Annually"],
+            "mov": ["Quarterly", "Midterm", "Annual"],
+            "agency": "NPCU County Team MOALF & KNBS Consultants"
+          },
+          {
+            "id": "3.2.1",
+            "title": "Outcome indicator 3.2.1: Uptake of climate risk financing and insurance solutions",
+            "subindicators": [
+              {
+                "id": "3.2.1a",
+                "title": "Outcome indicator 3.2.2: Climate risk financing solutions uptake",
+                "unit": "Number",
+                "baseline": "Baseline survey in Feb-March-2024",
+                "midtarget": "Increased by 15",
+                "endtarget": "Increased by 30",
+                "frequency": ["Monthly", "Quartely", "Annually"],
+                "mov": ["Quarterly", "Midterm", "Annual"],
+                "agency": "NPCU County Team MOALF & KNBS Consultants"
+              },
+              {
+                "id": "3.2.1b",
+                "title": "Output indicator 3.2.1: Climate insurance solutions uptake",
+                "unit": "Number",
+                "baseline": "Baseline survey in Feb-March-2024",
+                "midtarget": "Increased by 15",
+                "endtarget": "Increased by 30",
+                "frequency": ["Monthly", "Quartely", "Annually"],
+                "mov": ["Quarterly", "Midterm", "Annual"],
+                "agency": "NPCU County Team MOALF & KNBS Consultants"
+              }
+            ]
+          },
+          {
+            "id": "3.3",
+            "title": "Output statement 3.3: Operational capacity of regional resilience programme strengthened",
+            "unit": "Number",
+            "baseline": "0",
+            "midtarget": "",
+            "endtarget": "",
+            "frequency": [],
+            "mov": [],
+            "agency": ""
+          }
+        ]
+      }
+    ]
+  }
+  

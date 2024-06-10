@@ -1,0 +1,79 @@
+{
+    "id": "2",
+    "title": "Component 2: Agribusiness and Trade Development Supported",
+    "members": [
+      {
+        "id": "2.1",
+        "title": "Output Statement 2.1: Access provided to digital advisory services",
+        "unit": "Access provided to digital advisory service",
+        "baseline": "",
+        "midtarget": "",
+        "endtarget": "",
+        "frequency": ["Monthly", "Quartely", "Annually"],
+            
+        "agency": "NPCU County Team MOALF & KNBS Consultants",
+        "members": [
+          {
+            "id": "2.1.1",
+            "title": "Output Indicator 2.1.1: Farmers and pastoralists benefiting from an extension on using digital advisory services under the program",
+            "unit": "Number",
+            "baseline": "Baseline survey in Feb-March-2031",
+            "midtarget": "2500",
+            "endtarget": "5000",
+            "frequency": ["Monthly", "Quartely", "Annually"],
+            "mov": ["Quartely", "Midterm", "Annual"],
+            "agency": "NPCU County Team MOALF & KNBS Consultants"
+          }
+        ]
+      },
+      {
+        "id": "2.2",
+        "title": "Output Statement 2.2: Inclusive entrepreneurship and trade promoted",
+        "unit": "People benefitting from enhanced entrepreneurship skills development and access to finance",
+        "baseline": "",
+        "midtarget": "",
+        "endtarget": "",
+        "frequency": ["Monthly", "Quartely", "Annually"],
+        "mov": ["Quartely", "Midterm", "Annual"],
+        "agency": "NPCU County Team MOALF & KNBS Consultants",
+        "members": [
+          {
+            "id": "2.2.1",
+            "title": "Output Indicator 2.2.1:People benefitting from enhanced entrepreneurship skills development and access to finance",
+            "unit": "Number",
+            "baseline": "Baseline survey in Feb-March-2024",
+            "midtarget": "1500",
+            "endtarget": "3,000",
+            "frequency": ["Monthly", "Quartely", "Annually"],
+            "mov": ["Quartely", "Midterm", "Annual"],
+            "agency": "NPCU County Team MOALF & KNBS Consultants"
+          }
+        ]
+      },
+      {
+        "id": "2.3",
+        "title": "Output Statement 2.3: Access to Renewable Energy Facilitated",
+        "unit": "People with access to renewable energy for households",
+        "baseline": "",
+        "midtarget": "",
+        "endtarget": "",
+        "frequency": ["Monthly", "Quartely", "Annually"],
+        "mov": ["Quartely", "Midterm", "Annual"],
+        "agency": "NPCU County Team MOALF & KNBS Consultants",
+        "members": [
+          {
+            "id": "2.3.1",
+            "title": "Output Indicator 2.3.1:People with access to renewable energy for households",
+            "unit": "Number",
+            "baseline": "Baseline survey in Feb-March-2024",
+            "midtarget": "1000",
+            "endtarget": "2,000",
+            "frequency": ["Monthly", "Quartely", "Annually"],
+            "mov": ["Quartely", "Midterm", "Annual"],
+            "agency": "NPCU County Team MOALF & KNBS Consultants"
+          }
+        ]
+      }
+    ]
+  }
+  

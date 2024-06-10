@@ -1,0 +1,58 @@
+[
+  {
+      "County": "Isiolo",
+      "Boreholes": 146,
+      "Shallow Wells": 55,
+      "Water Pans": 55,
+      "Earth Dams": 15,
+      "Surface Dams": 32
+  },
+  {
+      "County": "Marsabit",
+      "Boreholes": 125,
+      "Shallow Wells": 12,
+      "Water Pans": 28,
+      "Earth Dams": 60,
+      "Surface Dams": 143
+  },
+  {
+      "County": "West Pokot",
+      "Boreholes": 168,
+      "Shallow Wells": 25,
+      "Water Pans": 167,
+      "Earth Dams": 161,
+      "Surface Dams": 154
+  },
+  {
+      "County": "Turkana",
+      "Boreholes": 13,
+      "Shallow Wells": 18,
+      "Water Pans": 148,
+      "Earth Dams": 69,
+      "Surface Dams": 140
+  },
+  {
+      "County": "Baringo",
+      "Boreholes": 105,
+      "Shallow Wells": 17,
+      "Water Pans": 139,
+      "Earth Dams": 108,
+      "Surface Dams": 105
+  },
+  {
+      "County": "Samburu",
+      "Boreholes": 105,
+      "Shallow Wells": 43,
+      "Water Pans": 13,
+      "Earth Dams": 182,
+      "Surface Dams": 139
+  },
+  {
+      "County": "Garissa",
+      "Boreholes": 62,
+      "Shallow Wells": 60,
+      "Water Pans": 51,
+      "Earth Dams": 96,
+      "Surface Dams": 55
+  }
+]

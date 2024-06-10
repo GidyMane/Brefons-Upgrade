@@ -1,0 +1,35 @@
+{
+    "id": "4",
+    "title": "Component 4: Program Coordination and Knowledge Management",
+    "members": [
+      {
+        "id": "4.1",
+        "title": "Output Statement 4.1: Program work plans and activities at regional and country levels implemented, monitored and regularly evaluated",
+        "indicators": [
+          {
+            "id": "4.1.1",
+            "title": "Gender action plans implemented",
+            "unit": "Number",
+            "baseline": "Baseline survey in Feb-March-2024",
+            "midtarget": "1",
+            "endtarget": "1",
+            "frequency": ["Monthly", "Quartely", "Annually"],
+            "mov": ["Quarterly", "Midterm", "Annual"],
+            "agency": "NPCU County Team MOALF & KNBS Consultants"
+          },
+          {
+            "id": "4.1.2",
+            "title": "Baseline surveys done",
+            "unit": "Number",
+            "baseline": "",
+            "midtarget": "1",
+            "endtarget": "1",
+            "frequency": ["Monthly", "Quartely", "Annually"],
+            "mov": ["Quarterly", "Midterm", "Annual"],
+            "agency": "NPCU County Team MOALF & KNBS Consultants"
+          }
+        ]
+      }
+    ]
+  }
+  

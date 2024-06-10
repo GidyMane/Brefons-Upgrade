@@ -1,0 +1,522 @@
+{
+    "id": "1",
+    "title": "Outcome Statement 1: Increased Resilience of Agropastoral Production Systems",
+    "members": [
+      {
+        "id": "1.1",
+        "title": "Indicator 1.1: Agricultural productivity (crops and livestock)",
+        "unit": "Volume of Agricultural production (crops and livestock)",
+        "baseline": "Baseline survey in 2024",
+        "midtarget": "Increase by 30%",
+        "endtarget": "",
+        "frequency": ["Monthly", "Quartely", "Annually"],
+        "mov": ["Quartely", "Midterm", "Annual"],
+        "agency": "NPCU County Team MOALF & KNBS Consultants",
+        "members": [
+          {
+            "id": "1.1.1",
+            "title": "Outcome Indicator 1.1a: Agricultural productivity (crops and livestock)",
+            "unit": "Volume of Agricultural production (crops and livestock)",
+            "baseline": "Baseline survey in 2024",
+            "midtarget": "Increase by 30%",
+            "endtarget": "",
+            "frequency": ["Monthly", "Quartely", "Annually"],
+            "mov": ["Quartely", "Midterm", "Annual"],
+            "agency": "NPC County Team MOALF & KNBS, Consultants",
+            "members": [
+              {
+                "id": "1.1.1a",
+                "title": "Agricultural productivity (Crop)",
+                "members": [
+                  {
+                    "id": "1.1.1a.1",
+                    "title": "Maize Productivity",
+                    "unit": "Tons/Ha",
+                    "baseline": "Baseline survey in Feb-March-2024",
+                    "midtarget": "Increase by 30%",
+                    "endtarget": "",
+                    "frequency": [],
+                    "mov": [],
+
+                    "agency": ""
+                  },
+                  {
+                    "id": "1.1.1a.2",
+                    "title": "Banana Productivity",
+                    "unit": "Tons/Ha",
+                    "baseline": "Baseline survey in Feb-March-2024",
+                    "midtarget": "Increase by 30%",
+                    "endtarget": "",
+                    "frequency": [],
+                    "mov": [],
+
+                    "agency": ""
+                  },
+                  {
+                    "id": "1.1.1a.3",
+                    "title": "Cow pea Productivity",
+                    "unit": "Tons/Ha",
+                    "baseline": "Baseline survey in Feb-March-2024",
+                    "midtarget": "Increase by 30%",
+                    "endtarget": "",
+                    "frequency": [],
+                    "mov": [],
+
+                    "agency": ""
+                  },
+                  {
+                    "id": "1.1.1a.4",
+                    "title": "Sorghum Productivity",
+                    "unit": "Tons/Ha",
+                    "baseline": "Baseline survey in Feb-March-2024",
+                    "midtarget": "Increase by 30%",
+                    "endtarget": "",
+                    "frequency": [],
+                    "mov": [],
+
+                    "agency": ""
+                  },
+                  {
+                    "id": "1.1.1a.5",
+                    "title": "Water Melon Productivity",
+                    "unit": "Tons/Ha",
+                    "baseline": "Baseline survey in Feb-March-2024",
+                    "midtarget": "Increase by 30%",
+                    "endtarget": "",
+                    "frequency": [],
+                    "mov": [],
+
+                    "agency": ""
+                  },
+                  {
+                    "id": "1.1.1a.6",
+                    "title": "Tomato Productivity",
+                    "unit": "Tons/Ha",
+                    "baseline": "Baseline survey in Feb-March-2024",
+                    "midtarget": "Increase by 30%",
+                    "endtarget": "",
+                    "frequency": [],
+                    "mov": [],
+
+                    "agency": ""
+                  },
+                  {
+                    "id": "1.1.1a.7",
+                    "title": "Fodder Productivity",
+                    "unit": "Tons/Ha",
+                    "baseline": "Baseline survey in Feb-March-2024",
+                    "midtarget": "Increase by 30%",
+                    "endtarget": "",
+                    "frequency": [],
+                    "mov": [],
+
+                    "agency": ""
+                  }
+                ]
+              },
+              {
+                "id": "1.1.1b",
+                "title": "Agricultural productivity (Livestock)",
+                "members": [
+                  {
+                    "id": "1.1.1b.1",
+                    "title": "Indigenous Chicken Meat",
+                    "unit": "Tons/Ha",
+                    "baseline": "Baseline survey in Feb-March-2024",
+                    "midtarget": "Increase by 30%",
+                    "endtarget": "",
+                    "frequency": [],
+                    "mov": [],
+
+                    "agency": ""
+                  },
+                  {
+                    "id": "1.1.1b.2",
+                    "title": "Milk (Cow)",
+                    "unit": "Litres/year",
+                    "baseline": "Baseline survey in Feb-March-2025",
+                    "midtarget": "",
+                    "endtarget": "",
+                    "frequency": [],
+                    "mov": [],
+
+                    "agency": ""
+                  },
+                  {
+                    "id": "1.1.1b.3",
+                    "title": "Milk (Goat)",
+                    "unit": "Litres/year",
+                    "baseline": "Baseline survey in Feb-March-2026",
+                    "midtarget": "",
+                    "endtarget": "",
+                    "frequency": [],
+                    "mov": [],
+
+                    "agency": ""
+                  },
+                  {
+                    "id": "1.1.1b.4",
+                    "title": "Milk (Camel)",
+                    "unit": "Litres/year",
+                    "baseline": "Baseline survey in Feb-March-2024",
+                    "midtarget": "Increase by 30%",
+                    "endtarget": "",
+                    "frequency": [],
+                    "mov": [],
+
+                    "agency": ""
+                  },
+                  {
+                    "id": "1.1.1b.5",
+                    "title": "Camel Meat",
+                    "unit": "Tons/Ha",
+                    "baseline": "Baseline survey in Feb-March-2025",
+                    "midtarget": "",
+                    "endtarget": "",
+                    "frequency": [],
+                    "mov": [],
+
+                    "agency": ""
+                  },
+                  {
+                    "id": "1.1.1b.6",
+                    "title": "Goat Meat (Chevon)",
+                    "unit": "Tons/Ha",
+                    "baseline": "Baseline survey in Feb-March-2024",
+                    "midtarget": "Increase by 30%",
+                    "endtarget": "",
+                    "frequency": [],
+                    "mov": [],
+
+                    "agency": ""
+                  },
+                  {
+                    "id": "1.1.1b.7",
+                    "title": "Honey",
+                    "unit": "Tons/Ha",
+                    "baseline": "Baseline survey in Feb-March-2024",
+                    "midtarget": "Increase by 30%",
+                    "endtarget": "",
+                    "frequency": [],
+                    "mov": [],
+
+                    "agency": ""
+                  },
+                  {
+                    "id": "1.1.1b.8",
+                    "title": "Beef",
+                    "unit": "Tons/Ha",
+                    "baseline": "Baseline survey in Feb-March-2024",
+                    "midtarget": "Increase by 30%",
+                    "endtarget": "",
+                    "frequency": [],
+                    "mov": [],
+
+                    "agency": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1.1.2",
+            "title": "Water mobilisation infrastructure sensitive to gender (small earth dams, boreholes, covered water pans, shallow wells, water distribution systems) constructed or rehabilitated",
+            "unit": "Water infrastructure developed",
+            "baseline": "",
+            "midtarget": "",
+            "endtarget": "",
+            "frequency": ["Monthly", "Quartely", "Annually"],
+            "mov": ["Quartely", "Midterm", "Annual"],
+            "agency": "NPCU County Team MOALF & KNBS Consultants",
+            "members": [
+              {
+                "id": "1.1.2.1",
+                "title": "Water pans/Earthdams developed",
+                "unit": "Number",
+                "baseline": "27",
+                "midtarget": "14",
+                "endtarget": "28",
+                "frequency": [],
+                "mov": [],
+
+                "agency": ""
+              },
+              {
+                "id": "1.1.2.2",
+                "title": "Boreholes developed",
+                "unit": "Number",
+                "baseline": "110",
+                "midtarget": "14",
+                "endtarget": "28",
+                "frequency": [],
+                "mov": [],
+
+                "agency": ""
+              },
+              {
+                "id": "1.1.2.3",
+                "title": "Shallow Wells developed",
+                "unit": "Number",
+                "baseline": "10",
+                "midtarget": "14",
+                "endtarget": "28",
+                "frequency": [],
+                "mov": [],
+
+                "agency": ""
+              },
+              {
+                "id": "1.1.2.4",
+                "title": "Sub Surface Dams developed",
+                "unit": "Number",
+                "baseline": "5",
+                "midtarget": "14",
+                "endtarget": "28",
+                "frequency": [],
+                "mov": [],
+
+                "agency": ""
+              }
+            ]
+          },
+          {
+            "id": "1.1.3",
+            "title": "Irrigation Development/rehabilitation",
+            "unit": "Irrigated land developed",
+            "baseline": "Ha",
+            "midtarget": "1070",
+            "endtarget": "400",
+            "frequency": ["Monthly", "Quartely", "Annually"],
+            "mov": ["Quartely", "Midterm", "Annual"],
+            "agency": "NPCU County Team MOALF & KNBS Consultants"
+          },
+          {
+            "id": "1.1.4",
+            "title": "Rangeland/Pasture development/rehabilitation",
+            "unit": "Rangeland/pasture rehabilitated",
+            "baseline": "Ha",
+            "midtarget": "910",
+            "endtarget": "175",
+            "frequency": ["Monthly", "Quartely", "Annually"],
+            "mov": ["Quartely", "Midterm", "Annual"],
+            "agency": "NPCU County Team MOALF & KNBS Consultants"
+          },
+          {
+            "id": "1.1.5",
+            "title": "Animal feed, health, and market access infrastructure constructed/rehabilitated",
+            "unit": "Health and Market Access Infrastructure Constructed/Rehabilitated",
+            "baseline": "",
+            "midtarget": "",
+            "endtarget": "",
+            "frequency": ["Monthly", "Quartely", "Annually"],
+            "mov": ["Quartely", "Midterm", "Annual"],
+            "agency": "NPCU County Team MOALF & KNBS Consultants",
+            "members": [
+              {
+                "id": "1.1.5.1",
+                "title": "Hay stores/sheds constructed",
+                "unit": "Number",
+                "baseline": "25",
+                "midtarget": "11",
+                "endtarget": "21",
+                "frequency": [],
+                "mov": [],
+
+                "agency": ""
+              },
+              {
+                "id": "1.1.5.2",
+                "title": "Veterinary Laboratories Equipped",
+                "unit": "Number",
+                "baseline": "6",
+                "midtarget": "4",
+                "endtarget": "7",
+                "frequency": [],
+                "mov": [],
+
+                "agency": ""
+              },
+              {
+                "id": "1.1.5.3",
+                "title": "Livestock Sale Yards/markets Constructed",
+                "unit": "Number",
+                "baseline": "25",
+                "midtarget": "11",
+                "endtarget": "21",
+                "frequency": [],
+                "mov": [],
+
+                "agency": ""
+              },
+              {
+                "id": "1.1.5.4",
+                "title": "Access roads constructed",
+                "unit": "Kms",
+                "baseline": "",
+                "midtarget": "219",
+                "endtarget": "50",
+                "frequency": [],
+                "mov": [],
+
+                "agency": ""
+              },
+              {
+                "id": "1.1.5.5",
+                "title": "Access roads rehabilitated",
+                "unit": "Kms",
+                "baseline": "219",
+                "midtarget": "50",
+                "endtarget": "100",
+                "frequency": [],
+                "mov": [],
+
+                "agency": ""
+              }
+            ]
+          },
+          {
+            "id": "1.1.6",
+            "title": "IGAD regional clusters with operationalised cross-border MOUs to better control transboundary animal diseases and zoonoses",
+            "unit": "",
+            "baseline": "",
+            "midtarget": "",
+            "endtarget": "",
+            "frequency": ["Monthly", "Quartely", "Annually"],
+            "mov": ["Quartely", "Midterm", "Annual"],
+            "agency": "NPCU County Team MOALF & KNBS Consultants"
+          }
+        ]
+      },
+      {
+        "id": "1.2",
+        "title": "Indicator 1.2:People benefitting from improved access to cross-border, pastoral natural resources (pasture, water, and transhumance routes, structures)",
+        "unit": "People benefitting from improved access to cross-border, pastoral natural resources (pasture, water, and transhumance routes, structures)",
+        "baseline": "Baseline survey in Feb-March-2024",
+        "midtarget": "",
+        "endtarget": "",
+        "frequency": ["Monthly", "Quartely", "Annually"],
+        "mov": ["Quartely", "Midterm", "Annual"],
+        "agency": "NPCU County Team MOALF & KNBS Consultants",
+        "members": [
+          {
+            "id": "1.2.1",
+            "title": "People benefitting from improved access to cross-border, pastoral natural resources (pasture, water, and transhumance routes, structures)",
+            "unit": "",
+            "baseline": "Baseline survey in Feb-March-2024",
+            "midtarget": "",
+            "endtarget": "",
+            "frequency": ["Monthly", "Quartely", "Annually"],
+            "mov": ["Quartely", "Midterm", "Annual"],
+            "agency": "NPCU County Team MOALF & KNBS Consultants",
+            "members": [
+              {
+                "id": "1.2.1.1",
+                "title": "Number of People benefiting from cross border/transboundary water structures e.g Boreholes, water pans, irrigation schemes",
+                "unit": "Number",
+                "baseline": "",
+                "midtarget": "",
+                "endtarget": "",
+                "frequency": ["Monthly", "Quartely", "Annually"],
+                "mov": ["Quartely", "Midterm", "Annual"],
+                "agency": "NPCU County Team MOALF & KNBS Consultants"
+              },
+              {
+                "id": "1.2.1.2",
+                "title": "Number of People benefiting from cross border/transboundary commercial pastures plot",
+                "unit": "Number",
+                "baseline": "",
+                "midtarget": "",
+                "endtarget": "",
+                "frequency": ["Monthly", "Quartely", "Annually"],
+                "mov": ["Quartely", "Midterm", "Annual"],
+                "agency": "NPCU County Team MOALF & KNBS Consultants"
+              },
+              {
+                "id": "1.2.1.3",
+                "title": "Number of People benefiting from cross border/transboundary Livestock Markets",
+                "unit": "Number",
+                "baseline": "",
+                "midtarget": "",
+                "endtarget": "",
+                "frequency": ["Monthly", "Quartely", "Annually"],
+                "mov": ["Quartely", "Midterm", "Annual"],
+                "agency": "NPCU County Team MOALF & KNBS Consultants"
+              },
+              {
+                "id": "1.2.1.4",
+                "title": "Number of People benefiting from cross border/transboundary water structures",
+                "unit": "Number",
+                "baseline": "",
+                "midtarget": "",
+                "endtarget": "",
+                "frequency": ["Monthly", "Quartely", "Annually"],
+                "mov": ["Quartely", "Midterm", "Annual"],
+                "agency": "NPCU County Team MOALF & KNBS Consultants"
+              },
+              {
+                "id": "1.2.1.5",
+                "title": "Number of People benefiting from cross border/transhumance routes",
+                "unit": "Number",
+                "baseline": "",
+                "midtarget": "",
+                "endtarget": "",
+                "frequency": ["Monthly", "Quartely", "Annually"],
+                "mov": ["Quartely", "Midterm", "Annual"],
+                "agency": "NPCU County Team MOALF & KNBS Consultants"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1.3",
+        "title": "Output Statement 1.2: Sustainable Management of Agropastoral Lands Promoted",
+        "unit": "Sustainable Management of Agropastoral Lands",
+        "baseline": "",
+        "midtarget": "",
+        "endtarget": "",
+        "frequency": [],
+        "mov": [],
+
+        "agency": "",
+        "members": [
+          {
+            "id": "1.3.1",
+            "title": "Pastoral and Agropastoral lands under sustainable land management",
+            "unit": "Additional Pastoral and Agropastoral lands under sustainable land management",
+            "baseline": "Hectares",
+            "midtarget": "Baseline survey in Feb-March-2024",
+            "endtarget": "2,500",
+            "frequency": ["Monthly", "Quartely", "Annually"],
+            "mov": ["Quartely", "Midterm", "Annual"],
+            "agency": "NPCU County Team MOALF & KNBS Consultants"
+          }
+        ]
+      },
+      {
+        "id": "1.4",
+        "title": "Output Statement 1.3: Climate-smart innovations and technologies promoted and harmonised across the Horn of Africa",
+        "unit": "Access to TAAT innovative technologies and practices by farmers and Agro-pastoralist",
+        "baseline": "",
+        "midtarget": "",
+        "endtarget": "",
+        "frequency": ["Monthly", "Quartely", "Annually"],
+        "mov": ["Quartely", "Midterm", "Annual"],
+        "agency": "NPCU County Team MOALF & KNBS Consultants",
+        "members": [
+          {
+            "id": "1.4.1",
+            "title": "Access to TAAT innovative technologies and practices by farmers and Agro-pastoralist",
+            "unit": "Pastoralists and farmers with access to TAAT innovative technologies and practices",
+            "baseline": "Number",
+            "midtarget": "Baseline survey in Feb-March-2024",
+            "endtarget": "2,500",
+            "frequency": ["Monthly", "Quartely", "Annually"],
+            "mov": ["Quartely", "Midterm", "Annual"],
+            "agency": "NPCU County Team MOALF & KNBS Consultants"
+          }
+        ]
+      }
+    ]
+  }
+  
